@@ -1,1 +1,2 @@
 welcome to Git and GitHub session
+how are you
